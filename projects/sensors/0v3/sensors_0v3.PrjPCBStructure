@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_connectors|SchDesignator=U_connectors|FileName=connectors.SchDoc|SymbolType=Normal|RawFileName=connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_humidity|SchDesignator=U_humidity|FileName=humidity.SchDoc|SymbolType=Normal|RawFileName=humidity.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_pressure_temp_uv|SchDesignator=U_pressure_temp_uv|FileName=pressure_temp_uv.SchDoc|SymbolType=Normal|RawFileName=pressure_temp_uv.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_weatherstation|SchDesignator=U_weatherstation|FileName=weatherstation.SchDoc|SymbolType=Normal|RawFileName=weatherstation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=main.SchDoc
